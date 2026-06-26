@@ -132,3 +132,4 @@ The application automatically creates the following database roles and test acco
   - **Username:** `seller1` | **Password:** `password2` | **Email:** `seller1@example.com`
 * **Regular User:**
   - **Username:** `user1` | **Password:** `password1` | **Email:** `user1@example.com`
+
